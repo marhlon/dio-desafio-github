@@ -1,2 +1,5 @@
 # dio-desafio-github
-Desafio de projeto Git/GitHub
+Desafio criado para o Projeto de Github.
+
+## Links úteis
+[Sintaxe básica de Markdown](https://codepen.io/andy0130tw/full/WoxWZv)
